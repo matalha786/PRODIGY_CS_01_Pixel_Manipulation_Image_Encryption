@@ -74,4 +74,3 @@ This project uses the following libraries:
 - [Pillow](https://pillow.readthedocs.io/en/stable/) for image processing.
 - [NumPy](https://numpy.org/) for numerical operations.
 
-```
