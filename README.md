@@ -24,8 +24,7 @@ pip install tkinter pillow numpy
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/pixel-manipulation-tool.git
-cd pixel-manipulation-tool
+git clone https://github.com/matalha786/PRODIGY_CS_02_Pixel_Manipulation_Image_Encryption.git
 ```
 
 2. Run the script:
